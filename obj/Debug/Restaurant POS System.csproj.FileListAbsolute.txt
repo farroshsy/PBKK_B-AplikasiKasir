@@ -1,0 +1,14 @@
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\bin\Debug\Restaurant POS System.exe.config
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\bin\Debug\Restaurant POS System.exe
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\bin\Debug\Restaurant POS System.pdb
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant POS System.csproj.AssemblyReference.cache
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant_POS_System.AddItem.resources
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant_POS_System.GenerateBill.resources
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant_POS_System.ResturentPOS.resources
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant_POS_System.Properties.Resources.resources
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant_POS_System.SalesChart.resources
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant_POS_System.SalesReport.resources
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant POS System.csproj.GenerateResource.cache
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant POS System.csproj.CoreCompileInputs.cache
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant POS System.exe
+C:\Users\Farros\Downloads\Restaurant-Point-of-Sale-POS-System-master\Restaurant POS System\obj\Debug\Restaurant POS System.pdb
